@@ -1,0 +1,5 @@
+{
+  "app_name": "AccidentETL",
+  "source_data_path": "data/input",
+  "target_data_path": "data/output"
+}
